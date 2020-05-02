@@ -1,0 +1,271 @@
+                @media (max-width: 1199.98px){
+    
+    
+    header .in-touch{
+        margin-top: 0;
+        margin-bottom: 200px;
+    }
+    
+    header .col-lg-12{
+        margin-top: 100px;
+    }
+    
+    .welcome{
+        padding: 40px 0;
+    }
+    
+    .welcome, .col-xl-12 p{
+        margin: 15px 0 25px;
+    }
+    
+    .welcome .col-xl-4 .in-touch{
+        margin-top: 40px;
+    }
+    
+    header .container-fluid .col-lg-5{
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    header .container-fluid .col-lg-5 a{
+        margin-right: 10px !important;
+    }
+
+    header .container-fluid .col-lg-4{
+        display: flex;
+        justify-content: flex-end;
+    }
+    
+    header .container-fluid .col-lg-4 a{
+        margin-right: 10px !important;
+    }
+    
+    .trained{
+        padding: 95px 0 90px;
+    }
+    
+    .trained h2{
+        margin-bottom: 25px;
+    }
+    
+    .trained h3{
+        margin-bottom: 20px;
+    }
+    
+    .expert{
+        padding: 40px 0;
+    }
+    
+    .expert .col-xl-12 p{
+        margin: 15px 0 25px;
+    }
+    
+    .expert .col-xl-4 img{
+        margin-bottom: 20px;
+    }
+    
+    .expert .col-xl-4 h4{
+        margin-bottom: 15px;
+    }
+    
+    .free .col-xl-6{
+        padding: 100px 0 100px;
+    }
+    
+    footer .col-lg-6 .text{
+        margin-bottom: 15px;
+    }
+    
+    footer .logo{
+        margin: 0 0 25px;
+    }
+    
+    footer .col-lg-6 form{
+        margin-top: 15px;
+    }
+    
+    footer .col-xl-3, h4{
+        margin-bottom: 20px;
+    }
+    
+    footer .col-lg-12{
+        margin-top: 15px;
+    }
+    
+    footer .col-lg-6 .blog1{
+        margin-bottom: 15px;
+    }
+    
+    footer .col-lg-6 .blog2{
+        margin-bottom: 15px;
+    }
+}
+
+                @media (max-width: 991.98px){
+                 
+                    header .container-fluid .col-xl-12 .body{
+                        margin-left: 25px;
+                    }
+                    
+                    
+                    
+                    header .in-touch{
+                        margin-bottom: 100px;
+                    }
+    
+                    .welcome .col-md-6{
+                        margin: auto;
+                    }
+                    
+                    .in-touch{
+                        padding: 12px 20px;
+                    }
+                    
+                    .welcome .col-md-6 .in-touch{
+                        margin: 20px 0 35px;
+                    }
+                    
+                    .trained{
+                        padding: 65px 0 70px;
+                    }
+                    .trained h2{
+                        font-size: 35px;
+                        margin-bottom: 15px;
+                    }
+                    
+                    .trained h3{
+                        font-size: 18px;
+                        margin-bottom: 10px;
+                    }
+                    
+                    .expert .col-md-6{
+                        margin: auto;
+                    }
+                    
+                    .free .col-md-12{
+                        padding: 80px 0;
+                    }
+                    
+                    .free .col-md-12 h2{
+                        margin-bottom: 25px;
+                    }
+                    
+                    .free .col-md-12 h3{
+                        margin-bottom: 15px;
+                    }
+                    
+                    footer{
+                        padding: 40px 0;
+                        
+                    }
+                    
+                    footer .col-md-12 .blog{
+                        margin-bottom: 5px;
+                    }
+                    
+                    footer .col-md-12{
+                        margin-bottom: 15px;
+                    }
+                    
+                    footer .col-md-12 .blog p{
+                        margin-left: 10px !important;
+                    }
+                    
+                    footer .col-md-12 .instagram{
+                        display: flex;
+                        justify-content: center;
+                        flex-wrap: wrap;
+                    }
+                    
+                    footer .col-md-12 form button{
+                        right: 379px;
+                    }
+}
+
+
+                @media (max-width: 767.98px){
+                    
+                    header{
+                        padding: 21px 25px;
+                    }
+                    
+                    header .col-sm-6{
+                        margin-top: 10px;
+                        display: flex;
+                        justify-content: flex-start !important;
+                    }
+                    
+                    header .container-fluid .col-sm-12{
+                        margin-top: 50px;
+                    }
+                    
+                    header .container-fluid .col-sm-6 button{
+                        padding: 5px 10px;
+                    }
+                    header .container-fluid .col-sm-12 .body h1{
+                        font-size: 35px;
+                    }
+                    
+                    header .container-fluid .col-sm-12 p{
+                        margin-top: 5px;
+                    }
+                    
+                    header .container-fluid .col-sm-12 p{
+                        margin: 15px 0 15px;
+                    }
+                    
+                    header .in-touch{
+                    margin: 0 0 50px;    
+                    }
+                    
+                    .welcome .item{
+                        padding: 0 0 25px;
+                    }
+                    
+                    .welcome .in-touch{
+                        display: block !important;
+                        margin: 10px auto 0 !important;
+                    }
+                    
+                    .welcome .text,
+                    .expert .text{
+                        text-align: center;
+                    }
+                    
+                    .expert .col-sm-12 img{
+                        width: 250px;
+                        height: 325px;
+                    }
+                    
+                    .free .col-sm-12{
+                        padding: 40px 0 40px;
+                    }
+                    
+                    footer{
+                        padding: 21px 25px;
+                    }
+                    
+                    footer form button{
+                        right: 220px !important;
+                    }
+                    
+                    footer .instagram{
+                        display: flex;
+                        justify-content: flex-start !important;
+                        width: 305px;
+                    }
+                    
+                    footer .blog p{
+                        display: flex;
+                        align-items: center;
+                    }
+                    
+                    footer .view{
+                        margin-top: 5px !important;
+                    }
+}
+
+                @media (max-width: 575.98px){
+    
+
+}
